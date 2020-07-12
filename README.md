@@ -12,4 +12,4 @@ Records in this data set describe decks of cards used in a popular collectible c
 
 Dataset contains 51 million records.
 
-My code analyzes the set, i.a. finding interesting relationships between the cards, card combos which have high win-rates or the popularity of cards over time.I mainly used the apiori algorithm for analysis.
+My code analyzes the set, i.a. finding interesting relationships between the cards, card combos which have high win-rates or the popularity of cards over time. I mainly used the apiori algorithm for analysis.
